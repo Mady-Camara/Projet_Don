@@ -1,0 +1,10 @@
+		Express process:
+1 - Cree un repetoire
+2 - Intialer le projet : npm init
+3 - creer le server.js
+4 - Initialiser son depot git
+5 - Creer le fichier '.gitignore' Et ajoute 'node_modules'
+6 - Editer le fichier fichier le demarrer
+7 - Installer 'nodemon': npm install -g nodemon
+8 - Installer express: npm install express --save
+9 - Creer un fichier app.js
